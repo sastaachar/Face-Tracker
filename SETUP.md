@@ -8,9 +8,9 @@
 ## Installation and usage
 
 1. Clone the repo :  
-```git clone 
 ```
-                                   
+git clone https://github.com/sastaachar/Face-Tracker.git
+```
 2. Open project in vscode : 
 ```code <path-to-project>```
 
